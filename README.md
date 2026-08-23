@@ -9,8 +9,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - ✉️> duongminhhoang.personal.mail@gmail.com
 - ![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg) > [linkedin.com/in/duong-hoang-340a602a6](https://www.linkedin.com/in/duong-hoang-340a602a6)
 
-#### Upcoming Personal Project: [LedgerLense](https://github.com/solarkMelb/LedgerLens)
-
+#### Upcoming Personal Project: <TBA>
 <!--
 **solarkMelb/solarkMelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
