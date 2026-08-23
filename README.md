@@ -6,7 +6,8 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - ✈️ Cross-domain curiosity, interested in General Aviation and Finance.
 
 ### Contact Me
-- ✉️> duongminhhoang.personal.mail@gmail.com
+- ✉️> duongminhhoang.personal.mail@gmail.com (Main contact, daily monitoring)
+- ✉️> dmh.contact.au@gmail.com (work-related)
 - ![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg) > [linkedin.com/in/duong-hoang-340a602a6](https://www.linkedin.com/in/duong-hoang-340a602a6)
 
 #### Upcoming Personal Project: **TBA** <TBA>
