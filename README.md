@@ -6,7 +6,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - ✈️ Cross-domain curiosity, interested in General Aviation (Diamond DA62, HondaJet Elite II xd).
 - 🎹 Maimai, Chunithm, SDVX, Taiko,...
 
-### 🛠️ Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/solarkMelb/-Facial-Recognition-with-Emotion-and-Liveness"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=-Facial-Recognition-with-Emotion-and-Liveness&theme=tokyonight&hide_border=true" /></a>
