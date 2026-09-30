@@ -6,6 +6,9 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - ✈️ Cross-domain curiosity, interested in General Aviation (Diamond DA62, HondaJet Elite II xd).
 - 🎹 Maimai, Chunithm, SDVX, Taiko,...
 
+### Pinned Repos:
+
+
 ### Contact Me
 - ✉️> duongminhhoang.personal.mail@gmail.com (Main contact, daily monitoring)
 - ✉️> dmh.contact.au@gmail.com (work-related only, messages only)
@@ -13,7 +16,6 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 
 #### Upcoming Personal Project: **TBA** <TBA>
 
-#### Pinned Repos
 <!--
 **solarkMelb/solarkMelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
