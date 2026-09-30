@@ -25,12 +25,12 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
     <td width="50%" valign="top">
       <h3>🐾 <a href="https://github.com/solarkMelb/Evie_Mini_Challenge">Pet-Health RAG</a></h3>
       <p>Answers only from vet-reviewed sources, and refuses when the evidence is weak.</p>
-      <kbd>Embeddings</kbd> <kbd>Qwen2.5</kbd> <kbd>Python</kbd>
+      <kbd>Embeddings</kbd> <kbd>Python</kbd>
     </td>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/solarkMelb/Basic-LLM-powered-document-QA">Document QA</a></h3>
       <p>Summarises PDFs and answers questions grounded in the text, with 4-bit GPU inference.</p>
-      <kbd>HuggingFace</kbd> <kbd>bitsandbytes</kbd> <kbd>PyTorch</kbd>
+      <kbd>HuggingFace</kbd> <kbd>PyTorch</kbd> <kbd>Python</kbd>
     </td>
   </tr>
 </table>
