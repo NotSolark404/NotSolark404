@@ -6,8 +6,15 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - ✈️ Cross-domain curiosity, interested in General Aviation (Diamond DA62, HondaJet Elite II xd).
 - 🎹 Maimai, Chunithm, SDVX, Taiko,...
 
-### Pinned Repos:
+### 🛠️ Featured Projects
 
+<p align="center">
+  <a href="https://github.com/solarkMelb/-Facial-Recognition-with-Emotion-and-Liveness"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=-Facial-Recognition-with-Emotion-and-Liveness&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/solarkMelb/obesity-risk-screening-tool"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=obesity-risk-screening-tool&theme=tokyonight&hide_border=true" /></a>
+  <br/>
+  <a href="https://github.com/solarkMelb/Evie_Mini_Challenge"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=Evie_Mini_Challenge&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/solarkMelb/Basic-LLM-powered-document-QA"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=Basic-LLM-powered-document-QA&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ### Contact Me
 - ✉️> duongminhhoang.personal.mail@gmail.com (Main contact, daily monitoring)
