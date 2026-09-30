@@ -16,7 +16,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
   <a href="https://github.com/solarkMelb/Basic-LLM-powered-document-QA"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=Basic-LLM-powered-document-QA&theme=tokyonight&hide_border=true" /></a>
 </p>
 
-### Contact Me
+## Contact Me
 - ✉️> duongminhhoang.personal.mail@gmail.com (Main contact, daily monitoring)
 - ✉️> dmh.contact.au@gmail.com (work-related only, messages only)
 - ![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg) > [linkedin.com/in/duong-hoang-340a602a6](https://www.linkedin.com/in/duong-hoang-340a602a6)
