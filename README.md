@@ -6,15 +6,15 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - ✈️ Cross-domain curiosity, interested in General Aviation (Diamond DA62, HondaJet Elite II xd).
 - 🎹 Maimai, Chunithm, SDVX, Taiko,...
 
-## Featured Projects
+### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/solarkMelb/-Facial-Recognition-with-Emotion-and-Liveness"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=-Facial-Recognition-with-Emotion-and-Liveness&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/solarkMelb/obesity-risk-screening-tool"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=obesity-risk-screening-tool&theme=tokyonight&hide_border=true" /></a>
-  <br/>
-  <a href="https://github.com/solarkMelb/Evie_Mini_Challenge"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=Evie_Mini_Challenge&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/solarkMelb/Basic-LLM-powered-document-QA"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=solarkMelb&repo=Basic-LLM-powered-document-QA&theme=tokyonight&hide_border=true" /></a>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [**Face Analysis Platform**](https://github.com/solarkMelb/-Facial-Recognition-with-Emotion-and-Liveness) | Full-stack face verification with liveness/anti-spoofing and emotion recognition | FastAPI · React · ONNX · Triton · Qdrant · Docker |
+| [**Obesity Risk Screening**](https://github.com/solarkMelb/obesity-risk-screening-tool) | End-to-end MLOps pipeline with automated retraining and drift monitoring | scikit-learn · DVC · GitHub Actions · Streamlit |
+| [**Evie RAG Prototype**](https://github.com/solarkMelb/Evie_Mini_Challenge) | Pet-health Q&A that only answers from vet-reviewed sources, and refuses otherwise | sentence-transformers · Qwen2.5 · Python |
+| [**Document QA**](https://github.com/solarkMelb/Basic-LLM-powered-document-QA) | CLI summarisation and grounded Q&A over PDFs, with 4-bit GPU inference | HuggingFace · bitsandbytes · Python |
+
 
 ## Contact Me
 - ✉️> duongminhhoang.personal.mail@gmail.com (Main contact, daily monitoring)
