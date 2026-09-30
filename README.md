@@ -8,12 +8,32 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 
 ### Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Face Analysis Platform**](https://github.com/solarkMelb/-Facial-Recognition-with-Emotion-and-Liveness) | Full-stack face verification with liveness/anti-spoofing and emotion recognition | FastAPI · React · ONNX · Triton · Qdrant · Docker |
-| [**Obesity Risk Screening**](https://github.com/solarkMelb/obesity-risk-screening-tool) | End-to-end MLOps pipeline with automated retraining and drift monitoring | scikit-learn · DVC · GitHub Actions · Streamlit |
-| [**Evie RAG Prototype**](https://github.com/solarkMelb/Evie_Mini_Challenge) | Pet-health Q&A that only answers from vet-reviewed sources, and refuses otherwise | sentence-transformers · Qwen2.5 · Python |
-| [**Document QA**](https://github.com/solarkMelb/Basic-LLM-powered-document-QA) | CLI summarisation and grounded Q&A over PDFs, with 4-bit GPU inference | HuggingFace · bitsandbytes · Python |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 <a href="https://github.com/solarkMelb/-Facial-Recognition-with-Emotion-and-Liveness">Face Analysis Platform</a></h3>
+      <p>Full-stack face verification with liveness checks and emotion recognition, served via Triton.</p>
+      <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Qdrant</kbd> <kbd>Docker</kbd>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/solarkMelb/obesity-risk-screening-tool">Obesity Risk Screening</a></h3>
+      <p>Reproducible ML pipeline with drift monitoring and scheduled retraining via CI/CD.</p>
+      <kbd>DVC</kbd> <kbd>scikit-learn</kbd> <kbd>Actions</kbd> <kbd>Streamlit</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐾 <a href="https://github.com/solarkMelb/Evie_Mini_Challenge">Pet-Health RAG</a></h3>
+      <p>Answers only from vet-reviewed sources, and refuses when the evidence is weak.</p>
+      <kbd>Embeddings</kbd> <kbd>Qwen2.5</kbd> <kbd>Python</kbd>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/solarkMelb/Basic-LLM-powered-document-QA">Document QA</a></h3>
+      <p>Summarises PDFs and answers questions grounded in the text, with 4-bit GPU inference.</p>
+      <kbd>HuggingFace</kbd> <kbd>bitsandbytes</kbd> <kbd>PyTorch</kbd>
+    </td>
+  </tr>
+</table>
 
 
 ## Contact Me
