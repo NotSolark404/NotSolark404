@@ -16,7 +16,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 
 <table>
   <tr>
-    <td width= 100 valign="top">
+    <td width=50 valign="top">
       <h3> 🧑‍💻 <a href="https://github.com/solarkMelb/-Facial-Recognition-with-Emotion-and-Liveness">Face Analysis Platform</a></h3>
       <p>Full-stack face verification with liveness checks and emotion recognition, served via Triton.</p>
       <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Qdrant</kbd> <kbd>Docker</kbd>
