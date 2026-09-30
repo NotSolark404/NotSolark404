@@ -39,9 +39,15 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
       <kbd>HuggingFace</kbd> <kbd>PyTorch</kbd> <kbd>Python</kbd>
     </td>
   </tr>
+   <tr>
+    <td colspan="2" align="center">
+      <h3>🚧 Upcoming Project</h3>
+      <p><b>TBA</b>: <i>something new is taking off soon ✈️</i></p>
+      <kbd>Coming soon</kbd>
+    </td>
+  </tr>
 </table>
 
-#### Upcoming Personal Project: Homeserver + services
 <!--
 **solarkMelb/solarkMelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
