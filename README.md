@@ -31,7 +31,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
     <td width="20%" valign="top">
       <h3>🐾 <a href="https://github.com/solarkMelb/Evie_Mini_Challenge">Pet-Health RAG</a></h3>
       <p>Answers only from vet-reviewed sources, and refuses when the evidence is weak.</p>
-      <kbd>Embeddings</kbd> <kbd>Python</kbd>
+      <kbd>Python</kbd><kbd>hugginface</kbd>
     </td>
     <td width="20%" valign="top">
       <h3>📄 <a href="https://github.com/solarkMelb/Basic-LLM-powered-document-QA">Document QA</a></h3>
