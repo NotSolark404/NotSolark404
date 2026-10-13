@@ -7,7 +7,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - 🎹 Maimai, Chunithm, SDVX, Taiko,...
 
 ## Contact Me
-- ✉️> duongminhhoang.personal.mail@gmail.com (Main contact, daily monitoring)
+- ✉️> duongminhhoang.personal.mail@gmail.com (Main contact)
 - ✉️> dmh.contact.au@gmail.com (work-related only, messages only)
 - ![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg) > [linkedin.com/in/duong-hoang-340a602a6](https://www.linkedin.com/in/duong-hoang-340a602a6)
 
