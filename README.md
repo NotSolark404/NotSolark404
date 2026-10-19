@@ -1,7 +1,7 @@
 ## Hi, I'm Minh 
 
 I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺 
-- 💻 Proficient in Python, currently learning Rust and Javascript.
+- 💻 Proficient in Python, beginner in Flutter. CCurrently learning Rust and Javascript.
 - ❤️ Passionate about software architect, model fine-tuning and implementation, data management and processing, LLMs
 - ✈️ Cross-domain curiosity, interested in General Aviation (Diamond DA62, HondaJet Elite II xd).
 - 🎹 Maimai, Chunithm, SDVX, Taiko no tatsujin,...
