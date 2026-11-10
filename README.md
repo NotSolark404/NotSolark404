@@ -22,20 +22,20 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
       <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Qdrant</kbd> <kbd>Docker</kbd>
     </td>
     <td width="20%" valign="top">
-      <h3>⚙️ <a href="https://github.com/solarkMelb/obesity-risk-screening-tool">Obesity Risk Screening</a></h3>
+      <h3>⚙️ <a href="https://github.com/NotSolark404/obesity-risk-screening-tool">Obesity Risk Screening</a></h3>
       <p>Reproducible ML pipeline with drift monitoring and scheduled retraining via CI/CD.</p>
       <kbd>DVC</kbd> <kbd>scikit-learn</kbd> <kbd>Actions</kbd> <kbd>Streamlit</kbd>
     </td>
   </tr>
   <tr>
     <td width="20%" valign="top">
-      <h3>🐾 <a href="https://github.com/solarkMelb/Evie_Mini_Challenge">Pet-Health RAG</a></h3>
-      <p>Answers only from vet-reviewed sources, and refuses when the evidence is weak.</p>
-      <kbd>Python</kbd><kbd>hugginface</kbd>
+      <h3>📄 <a href="https://github.com/NotSolark404/Basic-LLM-powered-document-QA">Document QA</a></h3>
+      <p>Summarises PDFs and answers questions grounded in the text, with 4-bit GPU inference.</p>
+      <kbd>HuggingFace</kbd> <kbd>PyTorch</kbd> <kbd>Python</kbd>
     </td>
     <td width="20%" valign="top">
-      <h3>📄 <a href="https://github.com/solarkMelb/Basic-LLM-powered-document-QA">Document QA</a></h3>
-      <p>Summarises PDFs and answers questions grounded in the text, with 4-bit GPU inference.</p>
+      <h3>📄 <a href="https://github.com/NotSolark404/P54-Embodied-Multimodal-LLM-for-Industrial-Task-Planning">Embodied-Multimodal-LLM-for-Industrial-Task-Planning</a></h3>
+      <p>LLM-powered robot arms control system</p>
       <kbd>HuggingFace</kbd> <kbd>PyTorch</kbd> <kbd>Python</kbd>
     </td>
   </tr>
