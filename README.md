@@ -36,7 +36,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
     <td width="20%" valign="top">
       <h3>📄 <a href="https://github.com/NotSolark404/P54-Embodied-Multimodal-LLM-for-Industrial-Task-Planning">Embodied-Multimodal-LLM-for-Industrial-Task-Planning</a></h3>
       <p>LLM-powered robot arms control system with simulation (Pybullet) and UR5e using .urp and ROS2, dockerised</p>
-      <kbd>HuggingFace</kbd> <kbd>PyTorch</kbd> <kbd>Python</kbd>
+      <kbd>Docker</kbd> <kbd>Python</kbd> <kbd>ROS2</kbd>
     </td>
   </tr>
    <tr>
